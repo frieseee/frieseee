@@ -10,9 +10,9 @@
 
  <div style="display:flex">
  <div align="center">
-  <a href="https://github.com/gabrielmina118">
-   <img src="https://github-readme-stats.vercel.app/api?username=gabrielmina118&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmina118&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/frieseee">
+   <img src="https://github-readme-stats.vercel.app/api?username=frieseee&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frieseee&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
   </div> 
